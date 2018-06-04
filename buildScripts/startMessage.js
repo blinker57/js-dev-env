@@ -1,5 +1,5 @@
-//var chalk = require('chalk');
-import chalk from 'chalk';
+var chalk = require('chalk');
+//import chalk from 'chalk';
 
 /* eslint-disable no-console */
 
