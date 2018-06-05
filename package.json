@@ -26,10 +26,11 @@
   "license": "MIT",
   "dependencies": {
     "babel-preset-node6": "^11.0.0",
+    "hoek": "^5.0.3",
     "whatwg-fetch": "2.0.2"
   },
   "devDependencies": {
-    "babel-cli": "^6.23.0",
+    "babel-cli": "^6.26.0",
     "babel-core": "6.23.1",
     "babel-loader": "6.3.2",
     "babel-preset-env": "1.7.0",
