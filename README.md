@@ -1,3 +1,3 @@
-# SandboxCharts
+# js-dev-env
 
-This codebase is a study using Google Charts.
+This is a js boilerplate.
