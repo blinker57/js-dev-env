@@ -51,7 +51,7 @@
     "json-schema-faker": "0.4.0",
     "json-server": "0.9.5",
     "localtunnel": "1.8.2",
-    "mocha": "3.2.0",
+    "mocha": "5.2.0",
     "nock": "9.0.6",
     "npm-run-all": "4.0.1",
     "nsp": "2.6.2",
