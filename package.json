@@ -1,7 +1,7 @@
 {
-  "name": "javascript-development-environment",
+  "name": "sandbox-charts",
   "version": "1.0.0",
-  "description": "JavaScript development environment",
+  "description": "Playing around with Google Charts",
   "scripts": {
     "prestart": "babel-node buildScripts/startMessage.js",
     "start": "npm-run-all --parallel security-check opensrc lint-watch test-watch start-mockapi",

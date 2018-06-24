@@ -1,2 +1,3 @@
-# js-dev-env
-JavaScript Development Environment
+# SandboxCharts
+
+This codebase is a study using Google Charts.
